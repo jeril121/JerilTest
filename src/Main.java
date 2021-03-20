@@ -19,6 +19,7 @@ public class Main {
         ArrayList<Goodies> goodies = new ArrayList<>();
         String finalData;
 
+        //change the file location if needed
         String data = readFileAsString("C:\\Users\\jeril\\Desktop\\Test\\sample_input.txt");
 
         //splitting data to get the number of employee from file
