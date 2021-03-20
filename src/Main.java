@@ -46,7 +46,7 @@ public class Main {
         Collections.sort(goodies);
 
 
-        //startPos is minimum position of the googies
+        //startPos is minimum position of the goodies
         startPos = 0;
 
         //finding position of lowest priced goody
